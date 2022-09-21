@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/maggot-code/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maggot-code)](https://github.com/maggot-code/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggot-code&show_icons=true&theme=tokyonight)
